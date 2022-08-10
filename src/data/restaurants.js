@@ -3,7 +3,7 @@ export const restaurants = [
     type: "restaurant",
     info: {
       resId: 19879345,
-      name: "KFC",
+      name: "KFC-CoochBehar",
       image: {
         url: "https://b.zmtcdn.com/data/pictures/chains/6/800126/9410759d611db9c62c3acc23c1f27e06_o2_featured_v2.jpg",
       },
@@ -64,10 +64,10 @@ export const restaurants = [
         text: "₹250 for one",
       },
       locality: {
-        name: "Hazratganj, Lucknow",
+        name: "Cooch-Behar",
         address:
-          "Shop 25, Anchor C, Ground Floor, Saharaganj Mall, Saharaganj Road, Hazratganj, Lucknow",
-        localityUrl: "lucknow/hazratganj-restaurants",
+          "PRM City Market-Complex",
+        localityUrl: "coochbeher/coochbeher-restaurants",
       },
       timing: {
         text: "Closes in 1 hour 21 minutes",
@@ -77,7 +77,7 @@ export const restaurants = [
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/burger/",
+          url: "https://www.zomato.com/cooch-behar/restaurants/burger?category=1",
           name: "Burger",
         },
         {
@@ -89,13 +89,13 @@ export const restaurants = [
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/beverages/",
+          url: "https://www.zomato.com/cooch-behar/restaurants/beverages?category=1",
           name: "Beverages",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
-          url: "https://www.zomato.com/lucknow/restaurants/desserts/",
+          url: "https://www.zomato.com/cooch-behar/restaurants/desserts?category=1",
           name: "Desserts",
         },
       ],
@@ -110,14 +110,14 @@ export const restaurants = [
       hasOnlineOrdering: true,
       actionInfo: {
         text: "Order Now",
-        clickUrl: "/lucknow/kfc-1-hazratganj/order",
+        clickUrl: "coochbehar/kfc-coochbeher/order",
       },
     },
     gold: [],
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/kfc-1-hazratganj/order",
+      clickUrl: "coochbehar/kfc-coochbeher/order",
       clickActionDeeplink: "",
     },
     distance: "1.1 km",
@@ -160,7 +160,7 @@ export const restaurants = [
     type: "restaurant",
     info: {
       resId: 800228,
-      name: "Marksmen",
+      name: "Mitali",
       image: {
         url: "https://b.zmtcdn.com/data/pictures/chains/8/800228/b4975f178b8c9264498a65735f5d4263_o2_featured_v2.jpg",
       },
@@ -221,9 +221,9 @@ export const restaurants = [
         text: "₹250 for one",
       },
       locality: {
-        name: "Lalbagh, Lucknow",
-        address: "2, Maqbara Road, Opposite Halwasiya Market, Lalbagh, Lucknow",
-        localityUrl: "lucknow/lalbagh-restaurants",
+        name: "Mitali",
+        address: "Boro-Bazar,CoochBeher",
+        localityUrl: "/coochber-restaurants",
       },
       timing: {
         text: "Closes in 1 hour 51 minutes",
@@ -239,7 +239,7 @@ export const restaurants = [
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
+          url: "https://www.zomato.com/cooch-behar/restaurants/chinese?category=1",
           name: "Chinese",
         },
         {
@@ -488,7 +488,7 @@ export const restaurants = [
     type: "restaurant",
     info: {
       resId: 800561,
-      name: "Mahesh's Mansarovar",
+      name: "Momomia Coochbeher",
       image: {
         url: "https://b.zmtcdn.com/data/pictures/chains/1/800561/2b381cd36baba26fd2ec309cee7f20f6_o2_featured_v2.jpg",
       },
@@ -549,9 +549,9 @@ export const restaurants = [
         text: "₹250 for one",
       },
       locality: {
-        name: "Aliganj, Lucknow",
-        address: "8 Commercial, Near Bank Of India, Nirala Nagar, Lucknow",
-        localityUrl: "lucknow/aliganj-restaurants",
+        name: "Momomia Coochbeher",
+        address: "Debibari , Coochbeher",
+        localityUrl: "coocheber-restaurants",
       },
       timing: {
         text: "Closes in 1 hour 51 minutes",
@@ -657,12 +657,12 @@ export const restaurants = [
     type: "restaurant",
     info: {
       resId: 800486,
-      name: "Moti Mahal",
+      name: "Rolls-Wallah",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/6/800486/ebce2cecb33af555c7c4405ae044c663_o2_featured_v2.jpg",
+        url: "https://rollswallah.com/storage/rollswallah.png",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/6/800486/ebce2cecb33af555c7c4405ae044c663_o2_featured_v2.jpg",
+        url: "https://rollswallah.com/storage/rollswallah.png",
       },
       rating: {
         has_fake_reviews: 0,
@@ -718,10 +718,10 @@ export const restaurants = [
         text: "₹250 for one",
       },
       locality: {
-        name: "Hazratganj, Lucknow",
+        name: "Rolls-Wallah",
         address:
-          "Shop 75, M G Marg, Near Central Bank Of India, Hazratganj, Lucknow",
-        localityUrl: "lucknow/hazratganj-restaurants",
+          "RajBari-Coochbehar",
+        localityUrl: "coochbeher-restaurants",
       },
       timing: {
         text: "",
@@ -731,14 +731,14 @@ export const restaurants = [
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/north-indian/",
-          name: "North Indian",
+          url: "https://www.zomato.com/cooch-behar/rolls-wallah-cooch-behar/order",
+          name: "Ice-Cream Rolls",
         },
         {
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
-          url: "https://www.zomato.com/lucknow/restaurants/chinese/",
-          name: "Chinese",
+          url: "https://www.zomato.com/cooch-behar/rolls-wallah-cooch-behar/order",
+          name: "Vegan",
         },
         {
           deeplink:
@@ -782,14 +782,14 @@ export const restaurants = [
       hasOnlineOrdering: true,
       actionInfo: {
         text: "Order Now",
-        clickUrl: "/lucknow/moti-mahal-hazratganj/order",
+        clickUrl: "coochbeher/order",
       },
     },
     gold: [],
     takeaway: [],
     cardAction: {
       text: "",
-      clickUrl: "/lucknow/moti-mahal-hazratganj/order",
+      clickUrl: "/coochbeher/order",
       clickActionDeeplink: "",
     },
     distance: "1.9 km",
@@ -839,12 +839,12 @@ export const restaurants = [
     type: "restaurant",
     info: {
       resId: 800623,
-      name: "Alamgir Hotel",
+      name: "Laziz-Pizza",
       image: {
-        url: "https://b.zmtcdn.com/data/pictures/3/800623/db2af0909d9d47da97d29378b3d36ebc_o2_featured_v2.jpg",
+        url: "https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/8b/83/laziz-pizza.jpg",
       },
       o2FeaturedImage: {
-        url: "https://b.zmtcdn.com/data/pictures/3/800623/db2af0909d9d47da97d29378b3d36ebc_o2_featured_v2.jpg",
+        url: "https://media-cdn.tripadvisor.com/media/photo-s/0d/c1/8b/83/laziz-pizza.jpg",
       },
       rating: {
         has_fake_reviews: 0,
@@ -913,7 +913,7 @@ export const restaurants = [
           deeplink:
             "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
           url: "https://www.zomato.com/lucknow/restaurants/mughlai/",
-          name: "Mughlai",
+          name: "Pizza, Burger",
         },
       ],
       should_ban_ugc: false,

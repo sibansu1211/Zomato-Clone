@@ -14,7 +14,7 @@ const Header = () => {
           <div className="location-wrapper">
             <div className="location-icon-name">
               <i className="fi fi-rr-marker absolute-center location-icon"></i>
-              <div>Bangalore</div>
+              <div>CoochBehar</div>
             </div>
             <i className="fi fi-rr-caret-down absolute-center"></i>
           </div>
@@ -30,11 +30,11 @@ const Header = () => {
 
         <div className="profile-wrapper">
           <img
-            src="https://b.zmtcdn.com/images/user_avatars/mug_2x.png?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
+            src="https://media-exp1.licdn.com/dms/image/C4E35AQGpw-DToI59Vg/profile-framedphoto-shrink_400_400/0/1605597311799?e=1660752000&v=beta&t=qb8EJq_Y5-w7_TNAfkglUhX24sZOBgZxewSuHFkguXM"
             className="header-profile-image"
             alt="Profile"
           />
-          <span className="header-username">Shuvam</span>
+          <span className="header-username">Sibansu</span>
           <i className="fi fi-rr-angle-small-down absolute-center profile-options-icon"></i>
         </div>
       </div>

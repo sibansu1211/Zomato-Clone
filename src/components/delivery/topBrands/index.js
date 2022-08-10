@@ -21,7 +21,7 @@ const topBrandsList = [
     id: 3,
     time: "32 min",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/370c304771298718e899edd29be3d4b4_1605095053.png?output-format=webp",
+      "https://pbs.twimg.com/media/FLqLDiEaMAUwWrP.jpg"
   },
   {
     id: 4,
@@ -39,7 +39,7 @@ const topBrandsList = [
     id: 7,
     time: "31 min",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/f6f779024f5f34469381413bbbddbcbc_1617920260.png?output-format=webp",
+      "https://th.bing.com/th/id/OIP.Bp_JBlSaUaWf4uhEbFWPOgHaER?w=234&h=144&c=7&r=0&o=5&dpr=1.25&pid=1.7",
   },
   {
     id: 8,
@@ -57,7 +57,7 @@ const topBrandsList = [
     id: 10,
     time: "35 min",
     cover:
-      "https://b.zmtcdn.com/data/brand_creatives/logos/9fd44dce68f59d5a4f63e7c426c4c282_1605106153.png?output-format=webp",
+      "https://rollswallah.com/storage/rollswallah.png",
   },
 ];
 

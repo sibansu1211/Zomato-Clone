@@ -1,7 +1,7 @@
 import React from "react";
 import "./deliveryCollections.css";
 import DeliveryItem from "./deliveryItem";
-import Carousel from "react-grid-carousel";
+//import Carousel from "react-grid-carousel";
 import Slider from "react-slick";
 import PrevArrow from "../../common/carousel/prevArrow";
 import NextArrow from "../../common/carousel/nextArrow";
@@ -21,9 +21,9 @@ const deliveryItems = [
   },
   {
     id: 3,
-    title: "Rolls",
+    title: "IceCream-Rolls",
     cover:
-      "https://b.zmtcdn.com/data/o2_assets/e61347d2b01cfae669530bd4b8e778e41632716577.png",
+      "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/onj6nwvdiv7ykctnwlqi",
   },
   {
     id: 4,
